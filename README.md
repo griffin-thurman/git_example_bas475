@@ -1,2 +1,3 @@
-# git_example_bas475
-First git repo for bas 475. 
+# Git Example Bas475
+
+First git repo for BAS 475. 
